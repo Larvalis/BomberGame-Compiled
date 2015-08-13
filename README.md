@@ -3,6 +3,11 @@ Intro:
 ------------
 The compiled project ready to use version of a small network game reminding a bit of the old bomberman.
 
+Requirements:
+------------
+Require Java to be installed (Build with Java version 8).
+Must likely only works on windows
+
 Server and Client: 
 ------------
 There is 2 files (Game server and Game client) and a folder with the images. The path for the images is hardcoded for windows and need to be in the correct folder.
