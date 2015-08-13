@@ -6,7 +6,8 @@ The compiled project ready to use version of a small network game reminding a bi
 Requirements:
 ------------
 Require Java to be installed (Build with Java version 8).
-Must likely only works on windows
+
+Most likely only works on windows
 
 Server and Client: 
 ------------
