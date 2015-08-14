@@ -1,7 +1,7 @@
 # BomberGame-Compiled
 Intro: 
 ------------
-The compiled project ready to use version of a small network game using the TCP-protocol reminding a bit of the old bomberman.
+The compiled project ready to use version of a small network game using the TCP-protocol through LAN, reminding a bit of the old bomberman.
 
 Requirements:
 ------------
